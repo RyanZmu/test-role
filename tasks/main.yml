@@ -1,0 +1,5 @@
+---
+# tasks file for test-role
+- name: Test role
+  debug:
+   msg: "Test role is working!"
